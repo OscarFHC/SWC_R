@@ -1,9 +1,6 @@
-# when: 20161018
+# when: 20161018 @ 14:21
 # who: OSCAR
-# what:¢I add lalala at 14:11
-
-
-lalala
+# what: practice git add, git commit, git diff
 
 library(RSQLite)
 conn = dbConnect(SQLite(), dbname='D:/Courses/UM/2016Oct_SWCapnentry/survey.sqlite')
