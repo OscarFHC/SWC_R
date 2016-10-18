@@ -4,8 +4,6 @@
 
 
 lalala
-dadada
-
 
 library(RSQLite)
 conn = dbConnect(SQLite(), dbname='D:/Courses/UM/2016Oct_SWCapnentry/survey.sqlite')
