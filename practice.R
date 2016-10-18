@@ -1,6 +1,6 @@
-# when: 20161018 @ 14:21
+# when: 20161018 @ 15:03
 # who: OSCAR
-# what: practice git add, git commit, git diff
+# what: practice puch to GitHub
 
 library(RSQLite)
 conn = dbConnect(SQLite(), dbname='D:/Courses/UM/2016Oct_SWCapnentry/survey.sqlite')
