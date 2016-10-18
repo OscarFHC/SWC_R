@@ -1,6 +1,5 @@
-# when
-# what
-# who
+# when: 20161018
+# who: OSCAR
 
 
 library(RSQLite)
